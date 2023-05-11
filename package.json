@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rx-nostr": "^0.0.3"
+  }
+}
