@@ -1,5 +1,8 @@
 {
+  "type": "module",
   "dependencies": {
-    "rx-nostr": "^0.0.3"
+    "rx-nostr": "^0.0.3",
+    "rxjs": "^7.8.1",
+    "ws": "^8.13.0"
   }
 }
